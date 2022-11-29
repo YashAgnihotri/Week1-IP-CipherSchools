@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ol type="1">
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+        <li>Item 4</li>
+    </ol>
+
+    <ul style='List-style-type: circle;'>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+        <li>Item 4</li>
+    </ul>
+
+    <dl>
+        <dt>Guitar</dt>
+        <dd>Guitar is 6 string instrument</dd>
+        <dt>Ukulele</dt>
+        <dd>ukulele is 4 string instrument</dd>
+    </dl>
+
+</body>
+</html>
+_____________________________________________________________________
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>About Me(Real</h2>
+    <p> I am Harshit Vashisht working as <strong> software enginner</strong> . These days
+    I am creating Restful APIs using <em> flask</em> for my company project(almost done </p>
+    and soon i am going to start working on javascript). I've started this YouTube
+    channel to share my programming knowledge with all of you and you guys are great.
+    Thank you so much for subscribe to my channel.</p>
+    <p>I am very introvert and <mark> shy </mark>  person and i don't speak much with 
+    others expect my friends but if someone is talking about music  <sub>or</sub>
+    programming  I take interest in conversation. Since I was not good in making new 
+    friends I used to tal to my online friends but I could never really ..........
+    Comment if you want to know more about  me.</p>
+    <p>H<sub></sub>0</p>
+    <p>2 <sub>4</sub></p>
+</body>
+</html>
+______________________________________________________________________
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>table</title>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>First Name</th>
+                <th>Last Name</th>
+            </tr>
+
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>Harshit</td>
+                <td>Vashistha</td>
+            </tr>
+            <tr>
+                <td>Mohit</td>
+                <td>Vashistha</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
+_______________________________________________________________________________
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Forms</title>
+</head>
+<body>
+    <h1>Html Forms</h1>
+    <form>
+        <label for="username">username : </label>
+        <input type="text" id="username"> <br> <br>
+
+        <label for="password">password : </label>
+        <input type="password" id="password"> <br> <br>
+
+        <label for="email">Email : </label>
+        <input type="email" id="email"> <br><br>
+
+        <input type="submit" value="sign in">
+    </form>
+</body>
+</html>
